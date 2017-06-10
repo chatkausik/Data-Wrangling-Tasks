@@ -1,3 +1,4 @@
 # Data-Wrangling-Tasks
 Data Wrangling Tasks with solutions
-JSON examples and exercise
+1) JSON assignments and exercise
+2) XML assignments & solutions
