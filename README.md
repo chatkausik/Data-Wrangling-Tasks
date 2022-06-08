@@ -2,3 +2,4 @@
 Data Wrangling Tasks with solutions
 1) JSON assignments and solution
 2) XML assignments and solution
+3) JSON & XML solution
